@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeeva
-- 👀 My interests are varies as I keep learning something new
+- 👀 My interests are varied as I keep learning something new
 - 🌱 I’m currently learning about Cloud based data analytics on AWS, Azure, and Google Cloud but not limited to it.
 
 <!---
