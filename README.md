@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Jeeva
-- 👀 My interests are varied as I keep learning something new
-- 🌱 I’m currently learning about Cloud based data analytics
-<!---
-jeevasathyatheesars/jeevasathyatheesars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there, how are you doing? Theesar here. 
+- 👀 Thanks for checking out! Ping me for collaborations! 
+- 🌱 I’m excited about my Cloud Based Data Analytics tool, hopefully, you can see it soon!
