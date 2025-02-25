@@ -1,3 +1,3 @@
-- 👋 Hi there, how are you doing? Theesar here. 
+- 👋 Hi Stranger! how are you doing? Thanks for stopping by. 
 - 👀 Thanks for checking out! Ping me for collaborations! 
-- 🌱 I’m excited about my Cloud Based Data Analytics tool, hopefully, you can see it soon!
+- 🌱 I’m excited for anything related to data analytics and visualizations!
